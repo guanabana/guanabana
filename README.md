@@ -1,4 +1,4 @@
-# Hola soy Jenny! 👋
+# Soy Jenny! 👋
 
 <img alt="Mis estadísticas" align="left" width= "47%" src="https://github-readme-stats.vercel.app/api?username=guanabana&show_icons=true"/>
 
